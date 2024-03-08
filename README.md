@@ -34,8 +34,8 @@ Entregavél
 - ver os metadados na plataforma do amundsen
 - par-programing com explanação do seu código
 
-referencias:
+Referencias:
 
-https://airflow.apache.org/docs/apache-airflow/stable/howto/docker-compose/index.html
-https://github.com/amundsen-io/amundsen
+- https://airflow.apache.org/docs/apache-airflow/stable/howto/docker-compose/index.html
+- https://github.com/amundsen-io/amundsen
 
